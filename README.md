@@ -34,10 +34,11 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 
+## Patika.dev Profile
+
+[esershnr](https://app.patika.dev/esershnr)
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
 
